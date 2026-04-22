@@ -1,6 +1,10 @@
 \# Hybrid AD + OneDrive Security Lab
 
+## Project Context
 
+This project was created as part of my hands-on cybersecurity and infrastructure learning, with a focus on applying secure configuration practices in a hybrid Windows environment.
+
+The goal is to demonstrate how Active Directory, Group Policy, and OneDrive controls can be used together to improve security, consistency, and operational visibility.
 
 A hands-on hybrid infrastructure lab focused on Active Directory, Group Policy, and secure OneDrive policy management for domain-joined Windows clients.
 
@@ -8,6 +12,15 @@ A hands-on hybrid infrastructure lab focused on Active Directory, Group Policy, 
 
 This project demonstrates how policy-based controls can be used to improve security, consistency, and operational visibility in a small Windows domain environment.
 
+
+## How to Use This Lab
+
+1. Build a Windows Server VM and install AD DS and DNS
+2. Create domain and OU structure
+3. Join a Windows client to the domain
+4. Import OneDrive administrative templates
+5. Apply Group Policy settings
+6. Run validation checks and monitoring scripts
 
 
 \## What this lab covers
@@ -101,4 +114,7 @@ OWASP concepts are referenced selectively for secure configuration, trusted soft
 This repository is a personal technical lab project created to demonstrate hands-on infrastructure and security skills.  
 
 It has been refactored into an independent project format and is not published as institutional course material.
+
+
+
 
