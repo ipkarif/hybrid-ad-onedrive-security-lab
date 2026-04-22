@@ -22,6 +22,11 @@ This project demonstrates how policy-based controls can be used to improve secur
 6. Run validation checks and monitoring scripts
 
 
+\## Lab Architecture
+
+![Hybrid AD Lab](diagrams/hybrid-lab-topology.png)
+
+
 \## What this lab covers
 
 \- Building a Windows Server domain controller with AD DS and DNS
