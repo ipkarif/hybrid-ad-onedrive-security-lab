@@ -9,7 +9,7 @@ The goal is to demonstrate how Active Directory, Group Policy, and OneDrive cont
 
 A hands-on hybrid infrastructure lab focused on Active Directory, Group Policy, and secure OneDrive policy management for domain-joined Windows clients.
 
-This project demonstrates how policy-based controls can be used to improve security, consistency, and operational visibility in a small Windows domain environment.
+This project demonstrates how policy-based controls can be used to improve security, consistency, and operational visibility in a hybrid environment.
 
 
 \## How to Use This Lab
