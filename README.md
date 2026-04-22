@@ -24,7 +24,7 @@ This project demonstrates how policy-based controls can be used to improve secur
 
 \## Lab Architecture
 
-\## Hybrid AD Lab -- diagrams/hybrid-lab-topology.png
+\- Hybrid AD Lab -- diagrams/hybrid-lab-topology.png
 
 
 \## What this lab covers
