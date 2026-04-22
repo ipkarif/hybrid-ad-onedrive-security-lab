@@ -1,0 +1,104 @@
+\# Hybrid AD + OneDrive Security Lab
+
+
+
+A hands-on hybrid infrastructure lab focused on Active Directory, Group Policy, and secure OneDrive policy management for domain-joined Windows clients.
+
+
+
+This project demonstrates how policy-based controls can be used to improve security, consistency, and operational visibility in a small Windows domain environment.
+
+
+
+\## What this lab covers
+
+
+
+\- Building a Windows Server domain controller with AD DS and DNS
+
+\- Creating a basic OU and user structure
+
+\- Joining Windows clients to the domain
+
+\- Importing OneDrive administrative templates into a Central Store
+
+\- Configuring Group Policy settings to control OneDrive sync behavior
+
+\- Restricting tenant usage and blocking personal OneDrive accounts
+
+\- Applying monitoring and validation steps for policy enforcement
+
+\- Mapping the lab to NIST CSF 2.0 security functions
+
+
+
+\## Security focus areas
+
+
+
+\- Secure configuration
+
+\- Access control
+
+\- Policy enforcement
+
+\- Tenant restriction
+
+\- Monitoring and validation
+
+\- Operational risk awareness
+
+
+
+\## Technologies used
+
+
+
+\- Windows Server 2019/2022
+
+\- Active Directory Domain Services (AD DS)
+
+\- DNS
+
+\- Group Policy
+
+\- Windows 10/11
+
+\- Microsoft 365 / OneDrive for Business
+
+\- PowerShell
+
+
+
+\## Framework alignment
+
+
+
+This lab is primarily mapped to NIST CSF 2.0, especially around Identify, Protect, Detect, and Respond.  
+
+OWASP concepts are referenced selectively for secure configuration, trusted software/template sourcing, and security best-practice awareness.
+
+
+
+\## Repository structure
+
+
+
+\- `docs/lab-guide.md` – full walkthrough
+
+\- `docs/nist-mapping.md` – NIST CSF 2.0 mapping
+
+\- `docs/security-notes.md` – security and hardening notes
+
+\- `scripts/` – PowerShell scripts used in the lab
+
+
+
+\## Notes
+
+
+
+This repository is a personal technical lab project created to demonstrate hands-on infrastructure and security skills.  
+
+It has been refactored into an independent project format and is not published as institutional course material.
+
